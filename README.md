@@ -11,7 +11,7 @@ which helps in setting the testsuite configuration. Setting up the configuration
  `kubectl kuttl test`
 
 
-**The TestSuite consists of the following test scenarios:-**
+**The TestSuite consists of the following testcases:-**
 1. test1(HasNoLabels)
 2. test2(HasLabels)
 3. test3(DifferentNameSpace)
