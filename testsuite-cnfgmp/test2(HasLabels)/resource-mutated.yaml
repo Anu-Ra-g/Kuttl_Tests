@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cm-example1
+  namespace: team-34
+  labels:
+    lfx-mentorship: kyverno
+data:
+  state: Michigan
+  city: Ann Arbor
+

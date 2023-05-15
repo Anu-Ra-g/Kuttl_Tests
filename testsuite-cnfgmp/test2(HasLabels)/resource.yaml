@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cm-example
+  namespace: team-34
+  labels:
+    foo: bar
+    data: 87099
+data:
+  state: Michigan
+  city: Ann Arbor
+

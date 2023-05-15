@@ -1,0 +1,7 @@
+apiVersion: kuttl.dev/v1beta1
+kind: TestSuite
+testDirs:
+- ./testsuite-cnfgmp
+
+timeout: 30
+parallel: 1
